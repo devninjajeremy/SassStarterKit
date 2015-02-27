@@ -1,0 +1,34 @@
+body,html{
+	width:100%;
+	height:100%;
+}
+body {
+	font-family:'Open Sans', sans-serif;
+	font-weight:400;
+
+	h1,h2,h3,h4,h5,h6 {
+		font-family:'Oswald',sans-serif;
+	}
+
+	/// APPLY THIS CLASS TO ANY ELEMENT FOR BOLDER FONT
+	.bold {
+		font-weight:700;
+	}
+
+	//reusable classes
+	.clearfix {
+		@extend 						%clearfix;
+	}
+
+	.relativeFlat {
+		@include relative();
+		z-index:1;
+	}
+
+	.fullBackgroundImageWidth {
+		@include fixed('top 0 left 0');
+		z-index:1;
+		width:100;
+		height:100%;
+	}
+}

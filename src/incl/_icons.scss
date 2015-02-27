@@ -1,0 +1,192 @@
+body {
+	/// AUDIO & Video PLAYER ICONS
+	span.backward {
+		&:before {
+			content:'<i class="fa fa-backward"></i>';
+		}
+	}
+
+	span.compress {
+		&:before {
+			content:'<i class="fa fa-compress"></i>';
+		}
+	}
+
+	span.eject {
+		&:before {
+			content:'<i class="fa fa-eject"></i>';
+		}
+	}
+
+	span.expand {
+		&:before {
+			content:'<i class="fa fa-expand"></i>';
+		}
+	}
+
+	span.fast-backward {
+		&:before {
+			content:'<i class="fa fa-fast-backward"></i>';
+		}
+	}
+
+	span.fast-forward {
+		&:before {
+			content:'<i class="fa fa-fast-forward"></i>';
+		}
+	}
+
+	span.forward {
+		&:before {
+			content:'<i class="fa fa-forward"></i>';
+		}
+	}
+
+	span.pause {
+		&:before {
+			content:'<i class="fa fa-pause"></i>';
+		}
+	}
+
+	span.play {
+		&:before {
+			content:'<i class="fa fa-play"></i>';
+		}
+	}
+
+	span.stop {
+		&:before {
+			content:'<i class="fa fa-stop"></i>';
+		}
+	}
+	/// END AUDIO PLAYER ICONS
+
+	/// SOCIAL MEDIA ICONS
+	span.facebook {
+		&:before {
+			content:'<i class="fa fa-facebook"></i>';
+		}
+	}
+
+	span.twitter {
+		&:before {
+			content:'<i class="fa fa-twitter"></i>';
+		}
+	}
+
+	span.google_plus {
+		&:before {
+			content:'<i class="fa fa-google-plus"></i>';
+		}
+	}
+
+	span.instagram {
+		&:before {
+			content:'<i class="fa fa-instagram"></i>';
+		}
+	}
+
+	span.youtube {
+		&:before {
+			content:'<i class="fa fa-youtube"></i>';
+		}
+	}
+
+	span.linkedin {
+		&:before {
+			content:'<i class="<i class="fa fa-linkedin"></i>';
+		}
+	}
+	
+	span.dribbble {
+		&:before {
+			content:'<i class="fa fa-dribble"></i>';
+		}
+	}
+
+	span.flickr {
+		&:before {
+			content:'<i class="fa fa-flickr"></i>';
+		}
+	}
+
+	span.foursquare {
+		&:before {
+			content:'<i class="fa fa-foursquare"></i>';
+		}
+	}
+	span.reddit {
+		&:before {
+			content:'<i class="fa fa-reddit"></i>';
+		}
+	}
+
+	span.spotify {
+		&:before {
+			content:'<i class="fa fa-spotify"></i>';
+		}
+	}
+
+	span.android {
+		&:before {
+			content:'<i class="fa fa-android"></i>';
+		}
+	}
+
+	span.paypal-icon {
+		&:before {
+			content:'<i class="fa fa-paypal"></i>';
+		}
+	}
+
+
+
+	span.soundcloud {
+		&:before {
+			content:'<i class="fa fa-soundcloud"></i>';
+		}
+	}
+
+	span.yelp {
+		&:before {
+			content:'<i class="fa fa-yelp"></i>';
+		}
+	}
+
+	span.mastercard {
+		&:before {
+			content:'<i class="fa fa-cc-mastercard"></i>';
+		}
+	}
+
+	span.discover {
+		&:before {
+			content:'<i class="fa fa-cc-discover"></i>';
+		}
+	}
+
+	span.amex {
+		&:before {
+			content:'<i class="fa fa-cc-amex"></i>';
+		}
+	}
+
+	span.paypal {
+		&:before {
+			content:'<i class="fa fa-cc-paypal"></i>';
+		}
+	}
+
+	span.stripe {
+		&:before {
+			content:'<i class="fa fa-cc-stripe"></i>';
+		}
+	}
+
+	span.visa {
+		&:before {
+			content:'<i class="fa fa-cc-visa"></i>';
+		}
+	}
+
+}

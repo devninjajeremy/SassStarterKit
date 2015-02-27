@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald|Open+Sans:400,700);
+/// INCLUDE MIXINS
+@import 'incl/mixins';
+@import 'incl/icons';
+@import 'incl/defaults';
+
+
+
+$max-width:100%;
+$half-width:$max-width / 2;
+
+
+$bgColor:rgba(0,0,0,1);
+
+
